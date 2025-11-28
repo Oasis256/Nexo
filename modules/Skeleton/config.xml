@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<module>
+    <namespace>Skeleton</namespace>
+    <version>1.0</version>
+    <author>Oasis Innocent</author>
+    <name>Skeleton</name>
+    <description>
+        <locale lang="en">Testing Module Development</locale>
+    </description>
+</module>

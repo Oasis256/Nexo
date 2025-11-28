@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<module>
+    <namespace>NsCommissions</namespace>
+    <version>4.8.1</version>
+    <author>Blair Jersyer</author>
+    <name>Sales Commissions</name>
+    <description>Will add a commissions system to NexoPOS 4.x</description>
+    <core min-version="4.8.0"/>
+</module>

@@ -1,0 +1,12 @@
+{
+    "name": "blair2004/ns-commissions",
+    "authors": [
+        {
+            "name": "blair2004",
+            "email": "carlosjohnsonluv2004@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
