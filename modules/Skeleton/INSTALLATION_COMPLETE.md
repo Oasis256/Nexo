@@ -5,9 +5,11 @@
 ### What Was Installed
 
 1. **Database**
+
    - Table: skeleton_items (with all columns and indexes)
 
 2. **Permissions** (4 total)
+
    - skeleton.create.items
    - skeleton.read.items
    - skeleton.update.items
@@ -15,6 +17,7 @@
    - All assigned to admin role
 
 3. **Files** (20 total)
+
    - Controller, Model, Service, CRUD
    - Routes (web + API)
    - 5 Blade views
