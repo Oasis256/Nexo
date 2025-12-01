@@ -148,7 +148,7 @@
 </div>
 @endsection
 
-@section('layout.dashboard.footer')
+@section('layout.dashboard.footer.inject')
 <script>
 function applyDateFilter() {
     const startDate = document.querySelector('input[name="start_date"]').value;
