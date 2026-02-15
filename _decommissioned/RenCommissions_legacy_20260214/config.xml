@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <namespace>RenCommissions</namespace>
+    <version>1.0.0</version>
+    <author>Oasis Innocent</author>
+    <name>Per-Item Commissions</name>
+    <description>Per-item commission assignment system for NexoPOS with manual staff selection at POS</description>
+</module>

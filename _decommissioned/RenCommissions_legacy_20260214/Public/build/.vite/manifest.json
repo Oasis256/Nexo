@@ -1,0 +1,23 @@
+{
+  "Resources/ts/dashboard-entry.ts": {
+    "file": "assets/dashboard-entry-DAYMgrbz.js",
+    "name": "dashboard-entry",
+    "src": "Resources/ts/dashboard-entry.ts",
+    "isEntry": true,
+    "imports": [
+      "Resources/ts/dashboard.ts"
+    ]
+  },
+  "Resources/ts/dashboard.ts": {
+    "file": "assets/dashboard-2mZYWTj7.js",
+    "name": "dashboard",
+    "src": "Resources/ts/dashboard.ts",
+    "isEntry": true
+  },
+  "Resources/ts/main.ts": {
+    "file": "assets/main-DhmXkT0k.js",
+    "name": "main",
+    "src": "Resources/ts/main.ts",
+    "isEntry": true
+  }
+}

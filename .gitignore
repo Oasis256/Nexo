@@ -54,3 +54,7 @@ public/hot
 storage/dotenv-editor
 .cloud
 ns
+AGENTS.md
+*.zip
+.git*
+.codex*
