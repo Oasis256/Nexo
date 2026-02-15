@@ -1,0 +1,19 @@
+{
+  "Resources/css/multistore.css": {
+    "file": "assets/multistore-CzZaEy1T.css",
+    "src": "Resources/css/multistore.css",
+    "isEntry": true
+  },
+  "Resources/ts/header.ts": {
+    "file": "assets/header-BvYO3GYd.js",
+    "name": "header",
+    "src": "Resources/ts/header.ts",
+    "isEntry": true
+  },
+  "Resources/ts/main.ts": {
+    "file": "assets/main-l0sNRNKZ.js",
+    "name": "main",
+    "src": "Resources/ts/main.ts",
+    "isEntry": true
+  }
+}

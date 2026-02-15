@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <namespace>RenCommissions</namespace>
+    <version>1.0.0</version>
+    <author>Oasis Innocent</author>
+    <name>Commissions</name>
+    <description>
+        <locale lang="en">Commission dashboard and management for NexoPOS.</locale>
+    </description>
+</module>

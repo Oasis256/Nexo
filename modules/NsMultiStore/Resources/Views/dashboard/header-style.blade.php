@@ -1,0 +1,1 @@
+@moduleViteAssets( 'Resources/css/multistore.css', 'NsMultiStore' )

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<module>
+    <namespace>NsQrCode</namespace>
+    <version>1.0</version>
+    <author>Oasis Innocent</author>
+    <name>NsQrCode</name>
+    <description>
+        <locale lang="en">This Module is responsible for QR Code Generation</locale>
+    </description>
+</module>

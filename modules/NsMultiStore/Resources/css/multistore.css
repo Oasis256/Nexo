@@ -1,0 +1,27 @@
+@layer theme, base, components, utilities;
+
+@import "tailwindcss/utilities.css" layer(utilities) prefix(multi);
+@import "tailwindcss/theme.css" layer(theme) prefix(multi);
+
+@source "./Resources";
+
+/* @layer components {
+    .dark {
+        .store-name {
+            @apply multi-text-gray-300;
+        }
+    }
+    
+    .light {
+        .store-name {
+            @apply multi-text-gray-300;
+        }
+    }
+} */
+
+.store-selector {
+    @apply multi:flex multi:justify-between multi:items-center multi:flex-shrink-0;
+    .store-count {
+        @apply multi:w-8 multi:h-8 multi:rounded-full multi:text-white multi:flex multi:items-center multi:justify-center;
+    }
+}

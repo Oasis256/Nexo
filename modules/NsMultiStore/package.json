@@ -1,0 +1,29 @@
+{
+  "name": "nsmultistore",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blair2004/NsMultiStore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blair2004/NsMultiStore/issues"
+  },
+  "homepage": "https://github.com/blair2004/NsMultiStore#readme",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "laravel-vite-plugin": "^1.3.0",
+    "vite": "^6.0.0"
+  }
+}

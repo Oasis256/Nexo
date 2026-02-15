@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<module>
+    <namespace>BookingVisitors</namespace>
+    <version>1.0</version>
+    <author>Oasis Innocent</author>
+    <name>Bookings &amp; Visitors</name>
+    <description>
+        <locale lang="en">Manage bookings, digital visitor logs, guest access, appointment scheduling, and QR code-based entry. Supports multi-channel booking (WhatsApp, website, phone), guest tracking, notifications, and secure access workflows for a seamless spa experience.</locale>
+    </description>
+</module>

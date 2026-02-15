@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<module>
+    <namespace>NsMultiStore</namespace>
+    <version>6.0.2</version>
+    <author>Blair Jersyer</author>
+    <name>NexoPOS MultiStore</name>
+    <description>
+        <locale lang="en">Provides a multistore support for NexoPOS</locale>
+        <locale lang="fr">Fournit un support multiboutique pour NexoPOS</locale>
+        <locale lang="es">Proporciona soporte multitienda para NexoPOS</locale>
+        <locale lang="it">Fornisce supporto multistore per NexoPOS</locale>
+        <locale lang="de">Bietet Unterstützung für mehrere Geschäfte in NexoPOS</locale>
+        <locale lang="pt">Fornece suporte multiloja para NexoPOS</locale>
+        <locale lang="ar">يوفر دعمًا متعدد المتاجر لـ NexoPOS</locale>
+        <locale lang="vi">Cung cấp hỗ trợ đa cửa hàng cho NexoPOS</locale>
+        <locale lang="sq">Ofron mbështetje shumëqytetëshe për NexoPOS</locale>
+    </description>
+    <core min-version="6.0.0" max-version="6.0.99"/>
+</module>

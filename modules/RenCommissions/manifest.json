@@ -1,0 +1,21 @@
+{
+  "include": [
+    "config.xml",
+    "manifest.json",
+    "RenCommissionsModule.php",
+    "Http/**",
+    "Listeners/**",
+    "Migrations/**",
+    "Models/**",
+    "Providers/**",
+    "Resources/**",
+    "Routes/**",
+    "Services/**"
+  ],
+  "exclude": [
+    "node_modules/**",
+    "Public/build/**",
+    "Public/hot",
+    "Tests/**"
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<module>
+    <namespace>Commission</namespace>
+    <version>1.0</version>
+    <author>Oasis Innocent</author>
+    <name>Commission</name>
+    <description>
+        <locale lang="en">A comprehensive commission tracking system for point-of-sale operations that handles multiple commission structures and real-time earnings attribution.</locale>
+    </description>
+</module>
