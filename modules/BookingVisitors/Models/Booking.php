@@ -3,6 +3,7 @@
 namespace Modules\BookingVisitors\Models;
 
 use App\Models\NsModel;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Booking extends NsModel
 {
@@ -38,5 +39,19 @@ class Booking extends NsModel
         'cancelled_at' => 'datetime',
         'metadata' => 'array',
     ];
-}
 
+    public function guests(): HasMany
+    {
+        return $this->hasMany(BookingGuest::class, 'booking_id');
+    }
+
+    public function tokens(): HasMany
+    {
+        return $this->hasMany(QrToken::class, 'booking_id');
+    }
+
+    public function visits(): HasMany
+    {
+        return $this->hasMany(VisitEvent::class, 'booking_id');
+    }
+}

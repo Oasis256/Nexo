@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<module>
-    <namespace>MyNexoPOS</namespace>
-    <version>5.3.0</version>
-    <author>Blair Jersyer</author>
-    <name>My NexoPOS</name>
-    <description>Provide a synchronization with the platform my.nexopos.com</description>
-    <core min-version="5.3.0"/>
-</module>

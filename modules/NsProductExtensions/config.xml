@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module>
-    <namespace>NsProductExtensions</namespace>
-    <version>1.0.0</version>
-    <author>Oasis Innocent</author>
-    <name>Product Extensions</name>
-    <description>Extends product attributes with service duration and other custom fields</description>
-</module>
